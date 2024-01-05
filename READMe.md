@@ -1,10 +1,7 @@
 
-```markdown
-# Social Media App
-
 ## Overview
 
-This is a backend social media application built using Node.js, TypeScript, PostgreSQL, TypeORM, GraphQL Yoga, and other technologies. The application allows users to create posts, make comments, and interact with each other.
+This is a small social media application built using Node.js, TypeScript, PostgreSQL, TypeORM, GraphQL Yoga, and other technologies. The application allows users to create posts, make comments, and interact with each other.
 
 ## Tech Stack
 
@@ -64,5 +61,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 - Thanks to the open-source community for providing the tools and libraries used in this project.
-
-Feel free to customize the README according to your project's specific details and requirements. Include additional sections such as features, future enhancements, or deployment instructions based on your project's needs.# backend-social-media-app
